@@ -1,5 +1,7 @@
 # Piano — Fsociety 🎹🇦🇱
 
+Created by **Erion Nezha**
+
 Krijimi i një pianoje vetëm me HTML dhe CSS është një sfidë emocionuese që përfshin përdorimin e aftësive të zhvillimit web për të krijuar diçka vizualisht tërheqëse.
 
 ![Pamje nga demo](screenshot.png)
@@ -17,6 +19,8 @@ Copyright © 2026 Erion Nezha. Të gjitha të drejtat e rezervuara.
 ---
 
 # Piano — Fsociety 🎹🇬🇧
+
+Created by **Erion Nezha**
 
 Creating a piano with just HTML and CSS is an exciting challenge that involves using web development skills to create something visually appealing.
 
