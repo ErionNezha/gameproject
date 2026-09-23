@@ -15,7 +15,8 @@ body {
 
 .container {
     height: 400px;
-    width: 590px;
+    width: 100%;
+    max-width: 590px;
     
     margin: auto;
     margin-top: 90px;
@@ -44,7 +45,8 @@ body {
 
 .keys {
     height: 250px;
-    width: 590px;
+    width: 100%;
+    max-width: 590px;
     padding: 0;
     
 }
